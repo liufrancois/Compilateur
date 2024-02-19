@@ -1,0 +1,23 @@
+
+Mon compilateur peut lire les expressions suivantes :
+- `printi()`
+- `printb()`
+- `prints()`
+
+Il peut également exécuter l'instruction suivante :
+- `geti()`
+
+Les opérations suivantes sont prises en charge :
+- +
+- -
+- *
+- /
+- %
+
+Les opérateurs logiques suivants sont également pris en charge :
+- ||
+- &&
+- !
+
+Pour compiler :
+dune build main.exe
